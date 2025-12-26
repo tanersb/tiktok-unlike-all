@@ -5,8 +5,8 @@
 // @description  Removes likes on videos while browsing any TikTok profile. Manual Start/Stop.
 // @match        https://www.tiktok.com/@*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/main/tiktok-unlike-all.user.js
-// @updateURL    https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/main/tiktok-unlike-all.user.js
+// @downloadURL  https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/tiktok-unlike-all.user.js
+// @updateURL    https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/tiktok-unlike-all.user.js
 // ==/UserScript==
 
 (function () {
