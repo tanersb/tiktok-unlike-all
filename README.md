@@ -21,8 +21,7 @@ Tampermonkey userscript that automatically removes likes while browsing any TikT
 2. Create a new userscript  
 3. Paste and save the script from:
 
-https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/tiktok-unlike-all.user.js
-
+https://raw.githubusercontent.com/tanersb/tiktok-unlike-all/main/tiktok-unlike-all.user.js
 
 ---
 
